@@ -33,39 +33,5 @@ This project addresses the growing demand for personalized health recommendation
 
 4. Scalable and modular architecture using Docker
 
-## Team
-
-- **Venkat Srinivasa Raghavan**
-  - Data preprocessing and cleaning
-  - Machine learning model development
-  - Performance optimization
-
-- **Deepak Udayakumar**
-  - LLM integration and prompt engineering
-  - NLP implementation
-  - Model deployment pipelines
-
-- **Aadarsh Gaikwad**
-  - Frontend development with React
-  - API implementation
-  - User interface design
-
-## Datasets
-
-The project utilizes four main datasets:
-1. Diet Dataset (3,867 meals)
-2. Exercise Dataset (3,865 exercises)
-3. User Profile Dataset (30 samples)
-4. Recent User Activity Dataset (30 records)
-
-## Technology Stack
-
-- **Frontend:** React
-- **Backend:** FastAPI
-- **ML/AI:** Python, Scikit-learn
-- **Deployment:** Docker
-- **Data Processing:** Pandas, NumPy
-- **NLP:** LLM Integration
-
 ---
 *Project under development*
